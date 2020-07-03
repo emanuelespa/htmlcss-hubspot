@@ -46,6 +46,17 @@ p{
   padding-left: 8px;
 }
 
+/* header-top-bottom */
+.header-top-bottom{
+  height: 70px;
+  line-height: 70px;
+  
+}
+
+.header-top-logo{
+  float: left;
+  width: 15%;
+}
 /* bottoni */
 
 
