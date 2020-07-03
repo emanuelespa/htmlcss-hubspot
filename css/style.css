@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* menu1 */
+.header-top-container{
+  height: 70px;
+  line-height: 70px;
+  background-color: #f5f8fa;
+  text-align: center;
+}
+
+.header-top-nav-left{
+  float: left;
+  width: 40%;
+}
+
+.header-top-nav-right{
+  float: left;
+  width: 40%;
+  text-align: right;
+}
+
+.menu{
+  list-style: none;
+}
+
+.menu li{
+  display: inline-block;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.fa-angle-down{
+  border-right: 1px solid black;
+  padding-right: 12px;
+}
+
+p{
+  padding-left: 8px;
+}
+
+/* bottoni */
+
+
+/* immagini */
