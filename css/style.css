@@ -46,6 +46,7 @@
   padding-left: 8px;
 }
 
+
 /* header-top-bottom */
 .header-top-bottom{
   height: 70px;
@@ -78,9 +79,50 @@
   aside{
     padding:8px;
   }
+
+  .fa-search{
+    color: #007fff;
+    font-size: 13px;
+    margin-right: 10px;
+  }
 /* bottoni */
+.btn{
+  border-radius: 5px;
+  color: #fff;
+  padding: 8px 8px;
+  min-width: 100px;
+  background-color: transparent;
+  border: none;
+  margin-left: 10px;
+}
 
+.btn2{
+  border-radius: 5px;
+  color: #fff;
+  padding: 8px 8px;
+  min-width: 60px;
+  background-color: transparent;
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
+.btn-gethub-big {
+  border-radius: 5px;
+  color: #fff;
+  padding: 20px 20px;
+  min-width: 100px;
+  background-color: orange;
+  border: none;
+}
+
+.btn-orange {
+  background-color: orange;
+}
+
+.btn-backgroundwhite{
+  border: 1px solid orange;
+  color: orange;
+}
 /* immagini */
 .container{
   height: 800px;
