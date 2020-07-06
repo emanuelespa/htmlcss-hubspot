@@ -291,8 +291,9 @@ main{
   margin-top: 20px;
   background-color: #F4F9FD;
   border-radius: 5px;
+  border: 1px solid lightgrey;
   box-shadow: 5px 10px lightgrey;
-  margin-bottom: 20px;
+  margin-bottom: 80px;
 }
 
 /* servizi hub */
@@ -303,7 +304,7 @@ main{
 }
 
 .marketing-hub{
-  width: 25%;
+  width: 35%;
   display: inline-block;
   margin: auto;
   text-align: center;
@@ -312,7 +313,7 @@ main{
 .immagine-marketing{
   width: 35%;
   margin-bottom: 20px;
-  text-align: center;
+  margin: auto;
 }
 
 .style1{
@@ -321,4 +322,13 @@ main{
 
 .style2{
   margin-bottom: 30px;
+}
+
+.listafeature{
+  list-style: none;
+}
+
+.fa-check-circle{
+  color: #FE775A;
+  padding-right: 10px;
 }
