@@ -12,7 +12,11 @@ header{
   height: 70px;
   line-height: 70px;
   background-color: #f5f8fa;
-  text-align: center;
+}
+
+.container-w{
+width: 70%;
+margin: auto;
 }
 
 .header-top-nav-left{
@@ -22,7 +26,7 @@ header{
 
 .header-top-nav-right{
   float: left;
-  width: 43.5%;
+  width: 50%;
   text-align: right;
 }
 
@@ -54,12 +58,11 @@ header{
 .header-top-bottom{
   height: 70px;
   line-height: 70px;
-  text-align: center;
 }
 
 .header-top-logo{
   float: left;
-  width: 45%;
+  width: 50%;
   line-height: 90px;
 }
 
@@ -70,7 +73,7 @@ header{
 
   .header-bottom-bottom{
     float: left;
-    width: 49%;
+    width: 50%;
     text-align: right;
     line-height: 60px;
   }
@@ -88,6 +91,12 @@ header{
     font-size: 13px;
     margin-right: 10px;
   }
+
+  .container-z{
+    width: 70%;
+    margin: auto;
+  }
+
 /* bottoni */
 .btn{
   border-radius: 5px;
@@ -114,40 +123,43 @@ header{
   color: #fff;
   padding: 20px 20px;
   min-width: 100px;
-  background-color: orange;
+  background-color: #FE775A;
   border: none;
 }
 
 .btn-orange {
-  background-color: orange;
+  background-color: #FE775A;
 }
 
 .btn-backgroundwhite{
-  border: 1px solid orange;
+  border: 1px solid #FE775A;
   color: orange;
 }
 /* immagini */
 .container{
   height: 650px;
-  position: relative;
+  background-color: #FFF3EE;
   }
 
 .img{
   background-image: url(../img/jumbotron.png);
   background-repeat: no-repeat;
-  background-size: contain, cover;
+  background-position: right bottom;
 }
 
 .color{
-  width: 50%;
-  height: 80%;
-  position: absolute;
-  left: 18.7%;
-  top: 14%;
+  width: 70%;
+  margin: auto;
+  position: relative;
+}
+.testo{
+ position: absolute;
+ top: 40px;
 }
 
 h1{
  font-size: 50px;
+ top: 50px;
 }
 
 span{
@@ -157,8 +169,8 @@ span{
 .rettangolo{
   height: 80px;
   background-color: green;
-  border-bottom: 3px solid black;
-  border-top: 3px solid black;
+  border-bottom: 3px solid #33475B;
+  border-top: 3px solid #33475B;
   background-color: #42FFC7;
 }
 
@@ -170,8 +182,19 @@ main{
 
 .container2{
   height: 1200px;
+  width: 70%;
+  margin: auto;
 }
 
 .dimension{
   font-size: 40px;
+}
+
+.cubo{
+  width: 70;
+  text-align: center;
+}
+
+.divison{
+  margin-top: 20px;
 }
