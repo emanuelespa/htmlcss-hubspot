@@ -152,9 +152,10 @@ margin: auto;
   margin: auto;
   position: relative;
 }
+
 .testo{
  position: absolute;
- top: 40px;
+ top: 110px;
 }
 
 h1{
@@ -191,10 +192,25 @@ main{
 }
 
 .cubo{
-  width: 70;
   text-align: center;
 }
 
 .divison{
   margin-top: 20px;
+}
+
+.crm {
+  width: 70%;
+  height: 60px;
+}
+
+.crm-left {
+  width: 30%;
+  float: left;
+  text-align: center;
+}
+
+.crm-left img {
+  width: 35%;
+  margin-bottom: 20px;
 }
