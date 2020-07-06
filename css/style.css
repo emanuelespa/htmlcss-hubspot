@@ -211,12 +211,13 @@ main{
   margin: auto;
   width: 35%;
   margin-bottom: 20px;
-  line-height: 50px;
+  margin-top: 50px;
 }
 
 .crm-right{
   width: 50%;
   float: left;
+  padding: 20px;
 }
 
 .box-title {
@@ -263,7 +264,7 @@ main{
 
 .box-line {
   height: 20px;
-  width: 60%;
+  width: 40%;
   display: inline-block;
   margin-bottom: 5px;
   border-bottom: 2px solid #899397;
@@ -290,4 +291,6 @@ main{
   margin-top: 20px;
   background-color: white;
   border-radius: 5px;
+  box-shadow: 5px 10px lightgrey;
+  margin-bottom: 20px;
 }
