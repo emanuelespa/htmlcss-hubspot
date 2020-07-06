@@ -182,7 +182,6 @@ main{
 }
 
 .container2{
-  height: 1200px;
   width: 70%;
   margin: auto;
 }
@@ -199,18 +198,92 @@ main{
   margin-top: 20px;
 }
 
-.crm {
-  width: 70%;
-  height: 60px;
-}
+
 
 .crm-left {
-  width: 30%;
+  width: 50%;
   float: left;
-  text-align: center;
 }
 
 .crm-left img {
   width: 35%;
   margin-bottom: 20px;
+}
+
+.crm-right{
+  width: 50%;
+  float: left;
+}
+
+.box-title {
+  font-size: 25px;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+
+.crm-right .box-title {
+  margin-top: 25px;
+}
+
+.box-description {
+  line-height: 1.8;
+}
+
+.feature-title {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.crm-right .box-title {
+  margin-bottom: 25px;
+}
+
+.box-description {
+  line-height: 1.8;
+}
+
+.crm-right .box-description {
+  max-width: 80%;
+  margin-bottom: 20px;
+}
+
+.feature-title {
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.crm-right .feature-title {
+  display: inline-block;
+  margin: 0 45px 25px 0;
+}
+
+.box-line {
+  height: 20px;
+  width: 60%;
+  display: inline-block;
+  margin-bottom: 5px;
+  border-bottom: 2px solid #899397;
+}
+
+.feature-list {
+  list-style: none;
+}
+
+.feature-item {
+  display: inline-block;
+  margin-right: 20px;
+  text-transform: capitalize;
+}
+
+.feature-list .fa-check-circle {
+  color: #FE775A;
+  margin-right: 15px;
+}
+
+.cubo2{
+  width: 70%;
+  margin: auto;
+  margin-top: 20px;
+  background-color: green;
+  position: relative;
 }
