@@ -207,9 +207,11 @@ main{
 }
 
 .crm-left img {
+  display: block;
   margin: auto;
   width: 35%;
   margin-bottom: 20px;
+  line-height: 50px;
 }
 
 .crm-right{
@@ -286,6 +288,6 @@ main{
   width: 70%;
   margin: auto;
   margin-top: 20px;
-  background-color: green;
-  position: relative;
+  background-color: white;
+  border-radius: 5px;
 }
