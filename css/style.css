@@ -289,8 +289,36 @@ main{
   width: 70%;
   margin: auto;
   margin-top: 20px;
-  background-color: white;
+  background-color: #F4F9FD;
   border-radius: 5px;
   box-shadow: 5px 10px lightgrey;
   margin-bottom: 20px;
+}
+
+/* servizi hub */
+.cubo3{
+  width: 70%;
+  margin: auto;
+  background-color: #F4F9FD;
+}
+
+.marketing-hub{
+  width: 25%;
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+}
+
+.immagine-marketing{
+  width: 35%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.style1{
+  margin-bottom: 15px;
+}
+
+.style2{
+  margin-bottom: 30px;
 }
