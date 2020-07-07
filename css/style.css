@@ -180,7 +180,6 @@ span{
 /* main */
 main{
   width: 100%;
-  padding-bottom: 100px;
   background-color: #F4F9FD;
 }
 
@@ -488,4 +487,8 @@ main{
 
 .dimension{
   font-size: 16px;
+}
+
+img{
+  padding-right: 15px;
 }
