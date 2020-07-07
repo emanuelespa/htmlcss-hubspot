@@ -474,6 +474,9 @@ main{
   margin: auto;
   text-align: center;
 }
+.cta{
+  width: 70%;
+}
 
 .customer-left{
   width: 50%;
@@ -504,6 +507,33 @@ img{
   padding-top: 60px;
 }
 
+/* customer-sottostante */
+
+.cta-left{
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.cta-left .title1{
+  margin-bottom: 45px;
+}
+
+.title1{
+  text-align: left;
+}
+
 .list2{
-  
+  text-align: left;
+  margin-bottom: 40px;
+}
+
+.cta-right {
+  float: left;
+  width: 50%;
+  text-align: right;
+}
+
+.cta-right img {
+  width: 55%;
 }
