@@ -178,6 +178,7 @@ span{
 /* main */
 main{
   width: 100%;
+  padding-bottom: 100px;
   background-color: #F4F9FD;
 }
 
@@ -406,4 +407,14 @@ main{
   width: 35%;
   margin-bottom: 20px;
   margin: auto;
+}
+
+/* sezione statistiche */
+.statistics {
+  padding: 40px 0 80px;
+  color: #fff;
+  text-align: center;
+  margin-top: 100px;
+  background: rgb(0,164,188);
+  background: linear-gradient(60deg, rgba(0,164,188,1) 0%, rgba(0,189,165,1) 100%);
 }
