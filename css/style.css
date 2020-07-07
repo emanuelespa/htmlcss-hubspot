@@ -14,6 +14,7 @@
 header{
   width: 100%;
 }
+
 .header-top-container{
   height: 70px;
   line-height: 70px;
@@ -43,8 +44,6 @@ margin: auto;
 .menu li{
   display: inline-block;
 }
-
-
 
 .down{
   border-right: 1px solid black;
@@ -510,7 +509,9 @@ img{
 }
 
 /* customer-sottostante */
-
+.cta{
+  width: 70%;
+}
 .cta-left{
   float: left;
   width: 50%;
