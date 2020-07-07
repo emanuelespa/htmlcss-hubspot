@@ -469,6 +469,12 @@ main{
 
 /* sezione customer */
 
+.container-customer{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
 .customer-left{
   width: 50%;
   float: left;
@@ -477,6 +483,7 @@ main{
 .customer-right{
  width: 50%;
  float: left;
+ line-height: 70px;
 }
 
 .introcusto{
@@ -491,4 +498,8 @@ main{
 
 img{
   padding-right: 15px;
+}
+
+.list{
+  padding-top: 60px;
 }
