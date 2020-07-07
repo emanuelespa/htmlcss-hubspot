@@ -503,3 +503,7 @@ img{
 .list{
   padding-top: 60px;
 }
+
+.list2{
+  float: left;
+}
