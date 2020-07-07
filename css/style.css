@@ -372,10 +372,30 @@ main{
   box-shadow: 5px 5px 5px 5px lightgrey;
   padding-top: 10px;
   padding-bottom: 10px;
-  margin-left: 3.1%;
+  margin-left: 1.5%;
 }
 
 .immagine-sales-hub{
+  width: 35%;
+  margin-bottom: 20px;
+  margin: auto;
+}
+
+/* service hub general */
+.service-hub{
+  width: 32%;
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  box-shadow: 5px 5px 5px 5px lightgrey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 1.5%;
+}
+
+.immagine-service{
   width: 35%;
   margin-bottom: 20px;
   margin: auto;
