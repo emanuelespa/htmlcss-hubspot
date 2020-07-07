@@ -467,3 +467,25 @@ main{
   width: 70%;
   margin: auto;
 }
+
+/* sezione customer */
+
+.customer-left{
+  width: 50%;
+  float: left;
+}
+
+.customer-right{
+ width: 50%;
+ float: left;
+}
+
+.introcusto{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: 50px;
+}
+
+.dimension{
+  font-size: 16px;
+}
