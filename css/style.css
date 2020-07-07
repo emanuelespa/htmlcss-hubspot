@@ -474,6 +474,7 @@ main{
   margin: auto;
   text-align: center;
 }
+
 .cta{
   width: 70%;
 }
@@ -481,6 +482,7 @@ main{
 .customer-left{
   width: 50%;
   float: left;
+  text-align: left;
 }
 
 .customer-right{
@@ -512,7 +514,8 @@ img{
 .cta-left{
   float: left;
   width: 50%;
-  text-align: center;
+  text-align: left;
+  margin-top: 80px;
 }
 
 .cta-left .title1{
@@ -521,11 +524,12 @@ img{
 
 .title1{
   text-align: left;
+  padding-top: 40px;
 }
 
 .list2{
   text-align: left;
-  margin-bottom: 40px;
+  padding-top: 40px;
 }
 
 .cta-right {
@@ -536,4 +540,5 @@ img{
 
 .cta-right img {
   width: 55%;
-}
+  padding-top: 80px;
+  }
