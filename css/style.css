@@ -289,7 +289,7 @@ main{
   width: 70%;
   margin: auto;
   margin-top: 20px;
-  background-color: #F4F9FD;
+  background-color: white;
   border-radius: 5px;
   border: 1px solid lightgrey;
   box-shadow: 10px 10px 5px lightgrey;
@@ -301,6 +301,7 @@ main{
   width: 70%;
   margin: auto;
   background-color: #F4F9FD;
+  height: 484px;
 }
 
 .marketing-hub{
@@ -313,10 +314,12 @@ main{
   box-shadow: 5px 5px 5px 5px lightgrey;
   padding-top: 10px;
   padding-bottom: 10px;
+  background-color: white;
 }
 
 .immagine-marketing{
   width: 35%;
+  height: 140px;
   margin-bottom: 20px;
   margin: auto;
 }
@@ -373,9 +376,11 @@ main{
   padding-top: 10px;
   padding-bottom: 10px;
   margin-left: 1.5%;
+  background-color: white;
 }
 
 .immagine-sales-hub{
+  height: 140px;
   width: 35%;
   margin-bottom: 20px;
   margin: auto;
@@ -393,9 +398,11 @@ main{
   padding-top: 10px;
   padding-bottom: 10px;
   margin-left: 1.5%;
+  background-color: white;
 }
 
 .immagine-service{
+  height: 140px;
   width: 35%;
   margin-bottom: 20px;
   margin: auto;
