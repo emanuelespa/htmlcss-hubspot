@@ -472,6 +472,7 @@ main{
   width: 70%;
   margin: auto;
   text-align: center;
+  padding-bottom: 80px;
 }
 
 .cta{
@@ -510,13 +511,14 @@ img{
 
 /* customer-sottostante */
 .cta{
-  width: 70%;
+  width: 100%;
 }
 
 .cta-left{
   float: left;
   width: 50%;
   text-align: left;
+  position: relative;
 }
 
 
@@ -541,10 +543,13 @@ img{
 
 .cta-right img {
   width: 55%;
-  padding-top: 80px;
+  padding-top: 30px;
   }
 
 .distance{
-  padding-top: 20px;
-  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+.measure{
+  font-size: 15px;
 }
