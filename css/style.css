@@ -22,8 +22,8 @@ header{
 }
 
 .container-w{
-width: 70%;
-margin: auto;
+  width: 70%;
+  margin: auto;
 }
 
 .header-top-nav-left{
@@ -140,7 +140,7 @@ margin: auto;
 .container{
   height: 650px;
   background-color: #FFF3EE;
-  }
+}
 
 .img{
   background-image: url(../img/jumbotron.png);
