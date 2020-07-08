@@ -559,6 +559,7 @@ img{
 footer{
   width: 100%;
   background-color: #33475B;
+  height: 600px;
 }
 
 .container-footer{
@@ -579,8 +580,8 @@ footer{
 }
 
 .listastyle li{
-  color: white;
   padding-bottom: 20px;
+  color: white;
 }
 
 h3{
@@ -634,4 +635,35 @@ h3{
 
 .sectionlingue{
   margin-bottom: 20px;
+}
+
+.allineamento-left{
+  float: left;
+  width: 50%;
+  line-height: 70px;
+  padding-top: 13px;
+  position: relative;
+}
+
+.allineamento-right{
+  float: left;
+  width: 50%;
+  line-height: 70px;
+  text-align: right;
+}
+
+.dista{
+  padding-left: 20px;
+  font-size: 16.8px;
+}
+
+.color-lega{
+  color: white;
+}
+
+.color-lega2{
+  color: white;
+  padding: 0;
+  position: absolute;
+  top: 32px;
 }
