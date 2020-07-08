@@ -588,7 +588,7 @@ h3{
 }
 
 .pad{
-  padding-left: 5px;
+  padding-left: 3px;
 }
 
 .btn-free{
@@ -598,4 +598,24 @@ h3{
   min-width: 100px;
   background-color: white;
   border: none;
+}
+
+.fa-instagram{
+  padding-left: 16px;
+}
+
+.fa-youtube{
+  padding-left: 16px;
+}
+
+.fa-twitter{
+  padding-left: 16px;
+}
+
+.fa-linkedin-in{
+  padding-left: 16px;
+}
+
+.fa-medium-m{
+  padding-left: 16px;
 }
