@@ -571,6 +571,7 @@ footer{
 .listato{
   float: left;
   width: 25%;
+  margin-bottom: 45px;
 }
 
 .listastyle{
@@ -618,4 +619,19 @@ h3{
 
 .fa-medium-m{
   padding-left: 16px;
+}
+
+.listastyle2{
+  list-style: none;
+  text-align: center;
+}
+
+.listastyle2 li{
+  display: inline-block;
+  color: white;
+  padding: 10px;
+}
+
+.sectionlingue{
+  margin-bottom: 20px;
 }
