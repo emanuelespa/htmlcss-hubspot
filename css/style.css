@@ -551,5 +551,51 @@ img{
 }
 
 .measure{
-  font-size: 15px;
+  font-size: 12px;
+}
+
+/* note footer */
+
+footer{
+  width: 100%;
+  background-color: #33475B;
+}
+
+.container-footer{
+  width: 70%;
+  margin: auto;
+  padding-top: 30px;
+  height: 500px;
+}
+
+.listato{
+  float: left;
+  width: 25%;
+}
+
+.listastyle{
+  list-style: none;
+}
+
+.listastyle li{
+  color: white;
+  padding-bottom: 20px;
+}
+
+h3{
+  color: white;
+  padding-bottom: 20px;
+}
+
+.pad{
+  padding-left: 5px;
+}
+
+.btn-free{
+  border-radius: 5px;
+  color: #33479C;
+  padding: 8px 8px;
+  min-width: 100px;
+  background-color: white;
+  border: none;
 }
